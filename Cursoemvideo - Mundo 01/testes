@@ -1,0 +1,7 @@
+conta = 19 // 2
+conta2 = 19%2
+conta3 = 3 * 5 + 4 ** 2
+
+print(conta)
+print(conta2)
+print(conta3)
